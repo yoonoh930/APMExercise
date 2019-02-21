@@ -1,0 +1,1 @@
+This is my attempt to solve problems given at the end of each chapter in the "Applied Predictive Modeling"
